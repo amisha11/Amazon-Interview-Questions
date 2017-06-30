@@ -2,7 +2,7 @@
    Input: array, n and m
    Output: indices of the flipped bits
    
-   This is the method that Pallav asked me to use for this question but I couldn't cause I am dumb.
+   This is the method was suggested to me by the SDE interviewing me.
 */
 
 #include<stdio.h>
